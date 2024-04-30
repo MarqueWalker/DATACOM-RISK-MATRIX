@@ -22,6 +22,24 @@ The Task   <br/>
 <br />
 
 
+<p align="center">
+OSINT RESULTS PART 1 <br/>
+ <img src="https://imgur.com/9Av8tjj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
+<p align="center">
+OSINT RESULTS PART 2 <br/>
+ <img src="https://imgur.com/VBIHJfU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+By implementing these security measures, the client can significantly enhance their resilience against cyberattacks conducted by APT34 and other sophisticated threat actors.
+
+
 
 
 # What I learned
