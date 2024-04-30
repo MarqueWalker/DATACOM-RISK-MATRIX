@@ -13,6 +13,16 @@ APT breach background information   <br/>
 <br />
 <br />
 
+# Task 1: APT breach: analysing the impact on information security
+
+<p align="center">
+The Task   <br/>
+ <img src="https://imgur.com/Fn6jF9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+
+
+
 
 # What I learned
 How to identify, evaluate, and prioritise potential security threats and vulnerabilities to determine the levels of risk and develop plans to mitigate those risks
