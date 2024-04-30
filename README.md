@@ -5,7 +5,13 @@
 * Conducted a comprehensive risk assessment.
 
 
+# Task 1: APT breach: analysing the impact on information security
 
+<p align="center">
+APT breach background information   <br/>
+ <img src="https://imgur.com/SHdDC93.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 
 
 # What I learned
