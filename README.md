@@ -35,7 +35,7 @@ Risk Assessment Rare Unlikely Threat Level   <br/>
 
 <p align="center">
 Risk Assessment Likely Almost Certain Threat Level   <br/>
- <img src="https://imgur.com/jmTogSF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/zoEzDpq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
