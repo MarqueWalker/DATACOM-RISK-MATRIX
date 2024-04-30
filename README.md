@@ -14,7 +14,7 @@ How to identify, evaluate, and prioritise potential security threats and vulnera
 
 
 <p align="center">
-Risk Assessment   <br/>
+Task 2: Cybersecurity risk assessment   <br/>
  <img src="https://imgur.com/H40CERt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
